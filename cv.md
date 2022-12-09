@@ -38,3 +38,19 @@ function multiply(a, b){
   return a * b
 }
 ```
+
+### Experience
+
+* _**SOC Analyst**_ (10 months)
+* _**Intern React developer**_ (3 months)
+
+### Education
+
+* Bachelor degree in Cybersecurity (_in progress_)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (_in progress_)
+* JavaScript Manual on learnjavascript.ru (_in progress_)
+
+### Languages:
+
+* **Russian** - native language
+* **English** - A2 by EPAM English test
